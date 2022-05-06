@@ -1,0 +1,22 @@
+mkdir first
+cd first
+ touch person.txt
+ mv person.txt another.txt
+ cp another.txt copy.txt
+ rm copy.txt
+ cp -r first second
+ rm -rf second
+
+
+ 1) Enter to scroll down and Q to exit out 
+ 2)  -l List in long format.-a Include directory entries whose names begin with a dot
+ 3) option/alt + left/right
+ 4) control + e
+ 5) control + a 
+ 6) control + w
+ 7)A terminal is a wrapper program that runs a shell and allows us to enter commands.
+ 8) from thr root to thr home then the folder next the file. 
+ 9)a path the starts from the current location and goes on after that. 
+ 10) additional functionality to an existing command added by - 
+ 11)they remove files and folders 
+
